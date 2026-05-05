@@ -1,12 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihir-techie&label=Profile%20views&color=0e75b6&style=flat" alt="mihir-techie" /> </p>
 
 # 💫 Hi 👋, I'm Mihir Kumar Panigrahi
-**A passionate Backend Developer || Machine Learning Engineer ||  from India**
+**A passionate Backend-Devloper|| Machine Learning Engineer ||  from India**
 
 Email Me 👉 ✉️ **mihirkumarpanigrahi2002@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Annexra
-- 🌱 **I’m currently learning:** Gen-AI
+- 🔭 **I’m currently working on:** Ai-Mentor
+- 🌱 **I’m currently learning:** GenAI 
+- 
 - 💬 **Ask me about:** Collaboration, Tech Support
 
 ## 🌐 Socials:
