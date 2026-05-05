@@ -16,7 +16,8 @@ Email Me 👉 ✉️ **mihirkumarpanigrahi2002@gmail.com** For Collaboration/Pro
   <img src="https://i.pinimg.com/originals/de/1b/25/de1b254055a1df7a350feea6f03611fd.gif" alt="coding gif" width="480"/>
 </div>
 <div align = "center">
-   <img src="https://i.pinimg.com/originals/5b/25/6e/5b256e909ff334b2019fefc344407888.gif" alt="coding gif" width="300"/>
+   <img src="![Uploading image.png…]()
+" alt="coding gif" width="300"/>
 </div>
 
 <!-- Snake Game Repo View -->
