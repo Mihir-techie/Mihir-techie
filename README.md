@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06f7cea4-f449-47d3-8933-befbe478ab1d" /><p align="left"> <img src="https://komarev.com/ghpvc/?username=heykcer&label=Profile%20views&color=0e75b6&style=flat" alt="heykcer" /> </p>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06f7cea4-f449-47d3-8933-befbe478ab1d" /><p align="left"> <img src="https://komarev.com/ghpvc/?username=Mihir-techie&label=Profile%20views&color=0e75b6&style=flat" alt="Mihir-techie" /> </p>
 
 # 💫 Hi 👋, I'm Mihir Kumar Panigrahi
 **A passionate Backend-Devloper|| Machine Learning Engineer ||  from India**
@@ -43,6 +43,6 @@ Email Me 👉 ✉️ **mihirkumarpanigrahi2002@gmail.com** For Collaboration/Pro
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=heykcer&limit=1&theme=solarized-dark&combine_all_yearly_contributions=true)
 
-[![Tanjil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mihir-techie&bg_color=151A28&color=8957B2&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Mihir-techie/Mihir-techie/github-readme-activity-graph)
+[![Mihirs's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mihir-techie&bg_color=151A28&color=8957B2&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Mihir-techie/Mihir-techie/github-readme-activity-graph)
 --
 
