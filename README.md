@@ -12,11 +12,8 @@ Email Me 👉 ✉️ **mihirkumarpanigrahi2002@gmail.com** For Collaboration/Pro
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mihir_ntsh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mihir-kumar-panigrahi-9b4b6627a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mihirkumarpanigrahi2002@gmail.com) 
 
-<div align="left">
-  <img src="https://i.pinimg.com/originals/de/1b/25/de1b254055a1df7a350feea6f03611fd.gif" alt="coding gif" width="480"/>
-</div>
-<div align = "right">
-   <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="coding gif" width="480"/>
+<div align="Center">
+  <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="coding gif" width="480"/>
 </div>
 
 <!-- Snake Game Repo View -->
