@@ -6,7 +6,8 @@
 Email Me 👉 ✉️ **mihirkumarpanigrahi2002@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Ai-Mentor
-- 🌱 **I’m currently learning:** Spring Boot
+- 🌱 **I’m currently learning:** GenAI 
+- 
 - 💬 **Ask me about:** Collaboration, Tech Support
 
 ## 🌐 Socials:
