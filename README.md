@@ -15,8 +15,8 @@ Email Me 👉 ✉️ **mihirkumarpanigrahi2002@gmail.com** For Collaboration/Pro
 <div align="left">
   <img src="https://i.pinimg.com/originals/de/1b/25/de1b254055a1df7a350feea6f03611fd.gif" alt="coding gif" width="480"/>
 </div>
-<div align = "center">
-   <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="coding gif" width="300"/>
+<div align = "right">
+   <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="coding gif" width="480"/>
 </div>
 
 <!-- Snake Game Repo View -->
